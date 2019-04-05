@@ -1,0 +1,191 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	overflow: hidden;
+	padding: 0px;
+	margin: 0px;
+}
+
+#mainImg
+{
+	z-index: 0;
+}
+
+#oldTV
+{
+	z-index: 1;
+	position: absolute;
+	top: 30px;
+	left: 67px;
+	visibility: hidden;
+}
+
+#oldFridge
+{
+	z-index: 1;
+	position: absolute;
+	top: 195px;
+	left: 67px;
+	visibility: hidden;
+}
+
+#oldDishwasher
+{
+	z-index: 1;
+	position: absolute;
+	top: 360px;
+	left: 67px;
+	visibility: hidden;
+}
+
+#oldWasher
+{
+	z-index: 1;
+	position: absolute;
+	top: 525px;
+	left: 67px;
+	visibility: hidden;
+}
+
+#newTV
+{
+	z-index: 1;
+	position: absolute;
+	top: 30px;
+	left: 1057px;
+	visibility: hidden;
+}
+
+#newFridge
+{
+	z-index: 1;
+	position: absolute;
+	top: 195px;
+	left: 1057px;
+	visibility: hidden;
+}
+
+#newDishwasher
+{
+	z-index: 1;
+	position: absolute;
+	top: 360px;
+	left: 1057px;
+	visibility: hidden;
+}
+
+#newWasher
+{
+	z-index: 1;
+	position: absolute;
+	top: 525px;
+	left: 1057px;
+	visibility: hidden;
+}
+
+#oldTVpic
+{
+	z-index: 1;
+	position: absolute;
+	top: 342px;
+	left: 341px;
+	visibility: hidden;
+}
+
+#oldFridgePic
+{
+	z-index: 1;
+	position: absolute;
+	top: 342px;
+	left: 495px;
+	visibility: hidden;
+}
+#oldDishwasherPic
+{
+	z-index: 1;
+	position: absolute;
+	top: 485px;
+	left: 336px;
+	visibility: hidden;
+}
+
+#oldWasherPic
+{
+	z-index: 1;
+	position: absolute;
+	top: 485px;
+	left: 495px;
+	visibility: hidden;
+}
+
+#newTVpic
+{
+	z-index: 1;
+	position: absolute;
+	top: 342px;
+	left: 655px;
+	visibility: hidden;
+}
+
+#newFridgePic
+{
+	z-index: 1;
+	position: absolute;
+	top: 342px;
+	left: 810px;
+	visibility: hidden;
+}
+
+#newDishwasherPic
+{
+	z-index: 1;
+	position: absolute;
+	top: 484px;
+	left: 655px;
+	visibility: hidden;
+}
+
+#newWasherPic
+{
+	z-index: 1;
+	position: absolute;
+	top: 484px;
+	left: 810px;
+	visibility: hidden;
+}
+
+#oldkWyear
+{
+	z-index: 1;
+	position: absolute;
+	top: 640px;
+	left: 430px;
+}
+
+#oldCost
+{
+	z-index: 1;
+	position: absolute;
+	top: 640px;
+	left: 565px;
+}
+ 
+#newkWyear
+{
+	z-index: 1;
+	position: absolute;
+	top: 640px;
+	left: 750px;
+}
+
+#newCost
+{
+	z-index: 1;
+	position: absolute;
+	top: 640px;
+	left: 885px;
+}
+
+/*385px*/
